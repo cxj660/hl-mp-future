@@ -1,0 +1,103 @@
+{
+    "totalResult": 0,
+    "returnCode": "200",
+    "showCount": 0,
+    "returnObject": [
+        {
+            "totalCapacity": 2416.87,
+            "WindCapacity": 208.5,
+            "photovoltaic": 2208.37,
+            "centralization": 1692.12,
+            "distributed": 516.24,
+            "region": "寿光"
+        },
+        {
+            "totalCapacity": 1343.79,
+            "WindCapacity": 629.5,
+            "photovoltaic": 714.29,
+            "centralization": 150,
+            "distributed": 564.29,
+            "region": "诸城"
+        },
+        {
+            "totalCapacity": 1230.42,
+            "WindCapacity": 223.5,
+            "photovoltaic": 1006.92,
+            "centralization": 375,
+            "distributed": 533.72,
+            "region": "安丘"
+        },
+        {
+            "totalCapacity": 1188.32,
+            "WindCapacity": 366.6,
+            "photovoltaic": 821.72,
+            "centralization": 288,
+            "distributed": 631.93,
+            "region": "直供"
+        },
+        {
+            "totalCapacity": 939.75,
+            "WindCapacity": 546.5,
+            "photovoltaic": 393.25,
+            "centralization": 115,
+            "distributed": 278.25,
+            "region": "昌邑"
+        },
+        {
+            "totalCapacity": 744.06,
+            "WindCapacity": 0,
+            "photovoltaic": 744.06,
+            "centralization": 10.5,
+            "distributed": 664.06,
+            "region": "高密"
+        },
+        {
+            "totalCapacity": 642.44,
+            "WindCapacity": 365.25,
+            "photovoltaic": 277.19,
+            "centralization": 60,
+            "distributed": 217.19,
+            "region": "临朐"
+        },
+        {
+            "totalCapacity": 342.3,
+            "WindCapacity": 0,
+            "photovoltaic": 342.3,
+            "centralization": 0,
+            "distributed": 342.3,
+            "region": "青州"
+        },
+        {
+            "totalCapacity": 341.51,
+            "WindCapacity": 0,
+            "photovoltaic": 341.51,
+            "centralization": 49.9,
+            "distributed": 291.61,
+            "region": "昌乐"
+        },
+        {
+            "totalCapacity": 236.92,
+            "WindCapacity": 0,
+            "photovoltaic": 236.92,
+            "centralization": 120,
+            "distributed": 116.92,
+            "region": "寒亭"
+        },
+        {
+            "totalCapacity": 9426.38,
+            "WindCapacity": 2339.85,
+            "photovoltaic": 7086.53,
+            "centralization": 2930.02,
+            "distributed": 4156.51,
+            "region": "合计"
+        }
+    ],
+    "entityOrField": false,
+    "totalPage": 0,
+    "returnBoolean": true,
+    "currentResult": 0,
+    "name": null,
+    "returnMessage": null,
+    "returnExceptionMsg": null,
+    "currentPage": 0
+}

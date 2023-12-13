@@ -1,0 +1,120 @@
+{
+  "container": "hl-earth",
+  "cameraFlyTo": {
+    "heading": 3.0403741748747146,
+    "height": 156872.46470129024,
+    "lonlat": [
+      119.10603700779322,
+      36.36542292861084,
+      2.7939677238464355e-9
+    ],
+    "pitch": 29.90886725711068,
+    "tilt": 29.90886725711068
+  },
+  "qdCameraFlyTo": {
+    "lonlat": [
+      120.20187802544757,
+      36.137780524677325,
+      0
+    ],
+    "height": 515499.7474775724,
+    "heading": -6.08057993523601,
+    "tilt": 67.22765885441896,
+    "pitch": 67.22765885441896
+  },
+  "chinaCameraFlyTo": {
+    "lonlat": [
+      104.76481537482735,
+      30.593061412473418,
+      9.313225746154785e-10
+    ],
+    "height": 9020179.50289531,
+    "heading": 6.396419894544832,
+    "tilt": 53.9813084112136,
+    "pitch": 53.9813084112136
+  },
+  "layers": [],
+  "map": {
+    "tileLayer": [
+      {
+        "name": "天地图",
+        "style": {
+          "template": "custom",
+          "grayFilterColorBar": [
+            [
+              "146",
+              "251",
+              "179",
+              "1"
+            ],
+            [
+              "8",
+              "48",
+              "88",
+              "1"
+            ],
+            [
+              "0",
+              "0",
+              "26",
+              "1"
+            ]
+          ],
+          "grayFilterPerBar": [
+            0,
+            0.45,
+            1
+          ],
+          "rgba": "rgba(255,255,255,1)",
+          "singleFilterEnable": false,
+          "grayFilterEnable": true,
+          "brightness": 1,
+          "contrast": 1,
+          "hue": 0,
+          "saturation": 1,
+          "gamma": 1,
+          "gradientColorOverlayEnable": false,
+          "gradientCustomColorPerBar": [
+            0,
+            0.5,
+            0.7,
+            1
+          ],
+          "gradientCustomColorBar": [
+            [
+              255,
+              255,
+              255
+            ],
+            [
+              255,
+              255,
+              255
+            ],
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0
+            ]
+          ]
+        },
+        "type": "TileLayer",
+        "url": "./tile/{z}/{x}/{y}.png"
+      }
+    ],
+    "map": {
+      "type": "Map",
+      "style": {
+        "atmosphere": false,
+        "fogExp": false,
+        "night": true,
+        "fog": false
+      }
+    }
+  }
+}
